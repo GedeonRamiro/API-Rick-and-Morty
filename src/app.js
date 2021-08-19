@@ -1,4 +1,4 @@
-/* const ul = document.querySelector('.container-ul')
+const ul = document.querySelector('.container-ul')
 const pesquisarInput = document.getElementById('pesquisarInput')
 
 const urlApi = 'https://rickandmortyapi.com/api/character'
@@ -121,4 +121,3 @@ getData().then(json => pesquisaTemplate(json))
   
 }
 
- */
